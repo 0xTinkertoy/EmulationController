@@ -48,11 +48,13 @@ Once the controller has connected to the monitor kernel, it acts as a terminal, 
 
 ## Compilation
 
-Emulation Controller uses CMake as its build system. A `CMakeLists.txt` is provided to build the project.
+Emulation Controller uses CMake as its build system.  
+A `CMakeLists.txt` is provided to build the project.
 
 ## IDE Support
 
-Emulation Controller supports both CLion and Xcode. A Xcode project has been provided.
+Emulation Controller supports both CLion and Xcode.   
+A Xcode project has been provided to build the controller on macOS easily.
 
 ## License
 
